@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: PRANAV K </h3>
-<h3>Register Number: 212224040240      </h3>
+<h3>Name: JOANN ELIZABETH SAMUEL </h3>
+<h3>Register Number: 212224040139     </h3>
 <H3>Aim:</H3>
 
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
